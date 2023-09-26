@@ -28,11 +28,7 @@ Pre-trained parser
 
 而其也加入了原句子,额外的图片等等输入到endoer模型中进行编码,其具体架构如下所示.
 
-
-
-
-
-
+![](C:\Users\lujun.li\OneDrive - University of Luxembourg\Bureau\Random\personal_note\Article Reading\Chain of  Thought  Article Reading.assets\GOT-1695729601747-2.PNG)
 
 
 
