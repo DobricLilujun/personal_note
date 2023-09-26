@@ -28,11 +28,11 @@ Pre-trained parser
 
 而其也加入了原句子,额外的图片等等输入到endoer模型中进行编码,其具体架构如下所示.
 
-![](Chain of  Thought  Article Reading.assets/GOT.PNG)
+![](../../../1111.PNG)
 
 
 
-
+然后模型第一步生成predict rationale， 第二步根据predict reationale 来预测最终的结果。
 
 
 
