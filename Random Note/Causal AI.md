@@ -54,7 +54,7 @@ So what can new algebraic methods based on causal science do?
 
 
 
-
+counterfactual 
 
 
 
@@ -70,3 +70,4 @@ The law of Counterfactual and Interventions
 
 
 
+![tensor](https://raw.githubusercontent.com/DobricLilujun/imagesAll/main/imagestensor.PNG)

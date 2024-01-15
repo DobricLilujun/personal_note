@@ -1,4 +1,4 @@
-# Graph of Thought
+# 2023-10-09 - Summary of Graph of Thought
 
 ## Question Modeling
 
